@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/pyvnagavan1/static/css/main.15c7180c.css",
-    "main.js": "/pyvnagavan1/static/js/main.ea5244f8.js",
+    "main.css": "/pyvnagavan1/static/css/main.ae0d2485.css",
+    "main.js": "/pyvnagavan1/static/js/main.60685f9a.js",
     "static/media/pyvnagavan.png": "/pyvnagavan1/static/media/pyvnagavan.6ea69e44bc3b5a349dd9.png",
     "index.html": "/pyvnagavan1/index.html",
-    "main.15c7180c.css.map": "/pyvnagavan1/static/css/main.15c7180c.css.map",
-    "main.ea5244f8.js.map": "/pyvnagavan1/static/js/main.ea5244f8.js.map"
+    "main.ae0d2485.css.map": "/pyvnagavan1/static/css/main.ae0d2485.css.map",
+    "main.60685f9a.js.map": "/pyvnagavan1/static/js/main.60685f9a.js.map"
   },
   "entrypoints": [
-    "static/css/main.15c7180c.css",
-    "static/js/main.ea5244f8.js"
+    "static/css/main.ae0d2485.css",
+    "static/js/main.60685f9a.js"
   ]
 }
