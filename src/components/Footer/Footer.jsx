@@ -11,8 +11,7 @@ export default function footer() {
 
       </div>
       <div>
-        <p className={styles.item}>Додаток</p>
-        
+        <p className={styles.item}> Додаток</p>        
       </div>
 
 
